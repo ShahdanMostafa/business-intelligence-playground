@@ -1,0 +1,7 @@
+{
+  "name": "IntelliRegister: AI-Powered Trainee Enrollment",
+  "description": "A structured trainee registration system with real-time AI ID verification, document extraction, and eligibility screening.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
